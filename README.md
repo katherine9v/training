@@ -8,11 +8,10 @@
 
 ## GIT COMMANDS
 
-`$ git status`
-
-`$ git add (file name)`
-
 ```
+$ git status
+$ git diff <filename> # Review changes.
+$ git add <filename>
 $ git commit -m "enter short description"
 $ git push origin master
 ```
