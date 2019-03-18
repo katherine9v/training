@@ -12,5 +12,7 @@
 
 `$ git add (file name)`
 
-```$ git commit -m "enter short description"
-$ git push origin master```
+```
+$ git commit -m "enter short description"
+$ git push origin master
+```
