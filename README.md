@@ -16,3 +16,8 @@ $ git commit -m "enter short description"
 $ git push origin master
 $ git merge
 ```
+
+## PHP functions
+`array_merge`
+`echo`
+`print`
