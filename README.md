@@ -14,5 +14,5 @@ $ git diff <filename> # Review changes.
 $ git add <filename>
 $ git commit -m "enter short description"
 $ git push origin master
-$ git merger
+$ git merge
 ```
